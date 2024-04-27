@@ -14,7 +14,7 @@ variable "sshport" {
 }
 
 variable "enabled" {
-  // doesn't have a tyoe
+  // doesn't have a type
   default = true
 }
 
